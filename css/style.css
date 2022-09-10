@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darksalmon;
+}
+a{
+    font-size: 20px;
+}
+img{
+    height: 300px;
+    width: auto;
+}
+p{
+    font-size: 18px;
+    font-weight: 700;
+}
